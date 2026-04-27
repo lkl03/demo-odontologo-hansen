@@ -1,2 +1,7 @@
-# demo-odontologo-hansen
-Demo web para Odontólogo Hansen — diseñada por eterlab.
+# Odontólogo Hansen
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
